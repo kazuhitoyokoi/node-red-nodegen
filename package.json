@@ -56,7 +56,7 @@
     "yamljs": "0.3.0"
   },
   "devDependencies": {
-    "del": "5.1.0",
+    "del": "6.0.0",
     "grunt": "1.0.4",
     "grunt-shell": "3.0.1",
     "grunt-simple-mocha": "0.4.1",
