@@ -62,7 +62,7 @@
     "grunt-simple-mocha": "0.4.1",
     "istanbul": "0.4.5",
     "node-red": "1.0.4",
-    "node-red-node-test-helper": "0.2.3",
+    "node-red-node-test-helper": "0.2.7",
     "q": "1.5.1",
     "should": "13.2.3",
     "sinon": "10.0.0",
