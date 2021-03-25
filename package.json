@@ -48,7 +48,7 @@
     "colors": "1.4.0",
     "csv-string": "4.0.1",
     "javascript-obfuscator": "1.12.1",
-    "jimp": "0.9.6",
+    "jimp": "0.16.1",
     "js-string-escape": "1.0.1",
     "minimist": "1.2.5",
     "mustache": "4.1.0",
