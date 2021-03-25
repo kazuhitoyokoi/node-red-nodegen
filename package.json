@@ -42,7 +42,7 @@
     "web of things"
   ],
   "dependencies": {
-    "ajv": "7.2.3",
+    "ajv": "6.12.6",
     "api-spec-converter": "2.12.0",
     "axios": "0.21.1",
     "colors": "1.4.0",
